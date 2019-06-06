@@ -1,0 +1,12 @@
+{
+    "name": "christopher/scrapper",
+    "authors": [
+        {
+            "name": "Christopher Vistal",
+            "email": "christophervistal25@gmail.com"
+        }
+    ],
+    "require": {
+        "kub-at/php-simple-html-dom-parser": "^1.9"
+    }
+}
